@@ -39,7 +39,7 @@ public class Image extends HttpServlet {
 		out.println("</head>");
 		out.println("<body>");
 		out.println("<span>Logomarca da Católica</span><br/>");
-		out.println("<img src='http://localhost:8080/Lesson1/logomarca-ucb.png'/>");
+		out.println("<img src='logomarca-ucb.png'/>");
 		out.println("</body>");
 		out.println("</html>");
 	}

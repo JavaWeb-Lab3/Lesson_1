@@ -42,7 +42,7 @@ public class Table extends HttpServlet {
 		out.println("<head>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("<table'>");
+		out.println("<table>");
 		out.println("<tr>");
 		out.println("<td>Nome</td>");
 		out.println("<td>Idade</td>");
